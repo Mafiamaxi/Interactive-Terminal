@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.Design;
 using System.Transactions;
 
-namespace Yeilding_Jack_ProcessWork1
+namespace Yeilding_Jack_A1_Project
 {
     internal class Program
     {
